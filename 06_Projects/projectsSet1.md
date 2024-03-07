@@ -2,7 +2,7 @@
 
 # Solution Code 
 
-''' 
+```
 HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -36,8 +36,4 @@ HTML
   </body>
 </html>
 
-'''
-
-'''
-
-'''
+```
