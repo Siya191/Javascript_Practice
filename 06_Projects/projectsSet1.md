@@ -5,7 +5,6 @@
 ## Project 1
 
 ```
-
 Javascript
 
 console.log("hitesh")
