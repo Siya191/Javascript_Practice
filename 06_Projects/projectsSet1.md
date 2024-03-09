@@ -2,7 +2,7 @@
 
 # Solution Code 
 
-## Project 1
+# Project 1
 
 ```
 Javascript
